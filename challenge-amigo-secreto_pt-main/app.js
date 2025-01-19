@@ -36,3 +36,8 @@ function sortearAmigo() {
     let nomeSorteado = nomes[indiceAleatorio]; 
     resultado.innerHTML = `O nome sorteado foi: ${nomeSorteado}`; 
 }
+
+function limpar() {
+    
+    paragrafo.innerHTML = ''
+}
