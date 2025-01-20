@@ -21,4 +21,4 @@ Este projeto, intitulado "Amigo Secreto", é uma aplicação web interativa que 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/JoaoPaulo23342/challenge-one/new/main?filename=README.md)
+   git clone [https://github.com/JoaoPaulo23342/challenge-one.git)
