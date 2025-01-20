@@ -39,5 +39,7 @@ function sortearAmigo() {
 
 function limpar() {
     
-    paragrafo.innerHTML = ''
+    nomes = [];
+    paragrafo.innerHTML = '';
+    resultado.innerHTML = '';
 }
