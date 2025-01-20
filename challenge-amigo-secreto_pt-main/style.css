@@ -169,3 +169,16 @@ p{
 .limpar {
     margin-top: 25px;
 }
+
+.rodape {
+    margin-top: 50px ;
+    background-color: #4b69fd;
+    color: #fff;
+    padding: 1px;
+    width: 200%;
+    text-align: center;
+    position: fixed;
+    width: 200%;
+    bottom: 0;
+   
+}
